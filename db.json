@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Robert Plant",
+      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRJKCXsbvsPzTMO336zBqnB1n5xmc9ZzDpZoqVAAN_XaCtE7pd9itC07NpLeV5tQxK8hAFf8iB2B9sPu6Q",
+      "price": "1969",
+      "id": 8
     }
   ]
 }
